@@ -13,4 +13,4 @@ In the process.
 * Belarusian National Technical University
  Standardization, metrology and certification
 ## Languages
-English level - A2 (course of 2English)
+English level - A2 (course of 2English) 
